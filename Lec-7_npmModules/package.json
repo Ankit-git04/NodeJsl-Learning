@@ -1,0 +1,15 @@
+{
+  "name": "npm_learning",
+  "version": "1.0.0",
+  "description": "This is the learning of npm modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon app.js"
+  },
+  "author": "Ankit yadav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
